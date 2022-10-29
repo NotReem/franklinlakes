@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Franklin Lakes Math!" />
         <p className="description">
           In Progress <code>By Kimo :)</code>
         </p>
