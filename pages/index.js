@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Franklin Lakes Math!" />
         <p className="description">
-          In Progress <code>By Kimo :)</code>
+          Retro Bowl :)
           <iframe src="https://game316009.konggames.com/gamez/0031/6009/live/index.html" class="wp-embed-frame " frameborder="0"></iframe>
         </p>
       </main>
