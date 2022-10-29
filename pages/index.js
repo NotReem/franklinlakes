@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Franklin Lakes Math!" />
         <p className="description">
           Retro Bowl :)
-          <iframe src="https://game316009.konggames.com/gamez/0031/6009/live/index.html" width="500%" height="500" class="wp-embed-frame " frameborder="0"></iframe>
+          <iframe src="https://game316009.konggames.com/gamez/0031/6009/live/index.html" width="350%" height="500" class="wp-embed-frame " frameborder="0"></iframe>
         </p>
       </main>
 
