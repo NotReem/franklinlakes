@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           Retro Bowl :)
           <iframe src="https://game316009.konggames.com/gamez/0031/6009/live/index.html" width="350%" height="500" class="wp-embed-frame " frameborder="0"></iframe>
+          Slope :D
+          <iframe id="iframehtml5" width="100%" height="100%" src="https://kdata1.com/2020/05/slope/" frameborder="0" border="0" scrolling="no" class="iframe-default " allowfullscreen=""></iframe>
         </p>
       </main>
 
